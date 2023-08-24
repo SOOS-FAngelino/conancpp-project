@@ -1,4 +1,5 @@
 sqlite3/3.42.0
+sqlite3/3.42.0
 from conans import ConanFile, CMake
 
 
