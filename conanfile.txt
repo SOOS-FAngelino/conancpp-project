@@ -1,4 +1,5 @@
 sqlite3/3.42.0
+sqlite3/3.42.0
 [requires]
 poco/[>1.0,<1.9]
 zlib/1.2.11
