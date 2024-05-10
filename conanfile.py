@@ -27,7 +27,7 @@ class HelloConan(ConanFile):
 
     def requirements(self):
         self.requires("poco/[>1.0,<1.9]")
-        self.requires('zlib/1.2.11')
+        self.requires('zlib/1.3.1')
 
     def build_requirements(self):
         self.tool_requires('7zip/19.00')
